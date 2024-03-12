@@ -6,7 +6,7 @@ function App() {
  
   return (
     <AppContextProvider>
-      <h1>Weather Application</h1>
+      <h1>Weather Widget</h1>
       <AppLayout />
     </AppContextProvider>
   );
